@@ -1,0 +1,35 @@
+.flexContenedor > a{
+    display: flex;
+    text-align: end;
+    background-color:darkgrey ;
+    
+    
+
+    
+}
+
+.flexDerecho > nav{
+    text-align: right;
+    color: black;
+    
+}
+.flexIzquierdo{
+    text-align: left;
+    color: black;
+}
+
+
+.flexContenedor2{
+    display: flex;
+    text-align: end;
+    height: 140px;
+    background-color: aliceblue;
+    gap: 10px;
+    margin-top: 3%;
+ 
+}
+
+.flexBarra{
+    background-color: black;
+    display: flex;
+}
